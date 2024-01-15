@@ -66,7 +66,7 @@ export const AccelerometerComponent = () => {
               cy="50" 
               fill="none"
               stroke="red"
-              stroke-width={calcStrokeW}
+              strokeWidth={calcStrokeW}
               x={calcX} 
               y={calcY}
               r={40}

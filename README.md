@@ -1,6 +1,9 @@
 # Digital Spirit Level (React + TypeScript + Vite)
 
-
+<div align="center">
+    <img src="https://imgur.com/RJuUksw.gif">
+    <span style="display:table-cell;height:30px;"></span>
+</div>
 
 ## Start Project
 - To run the project, simply open a terminal and run:
