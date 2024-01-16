@@ -9,6 +9,7 @@
 - To run the project, simply open a terminal and run:
 
   ```
+  yarn
   yarn dev -- --host
   ```
 
